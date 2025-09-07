@@ -1,0 +1,5 @@
+{
+  "name": "Bluetooth Proximity Scanner",
+  "description": "A web application that scans for nearby Bluetooth Low Energy (BLE) devices, estimates their distance based on signal strength, and uses the Gemini API to categorize them for easy identification.",
+  "requestFramePermissions": []
+}
